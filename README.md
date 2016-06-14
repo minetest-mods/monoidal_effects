@@ -1,5 +1,7 @@
 #Monoidal Effects
 
+Deprecated by player_monoids.
+
 Motivation
 ==========
 A mod may want to apply status effects to a player, but often this requires
